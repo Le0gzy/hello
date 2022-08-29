@@ -9,9 +9,10 @@
 
     int main(void) {
 
-    printf("Leo Gao!\n");
+    printf("My name is Leo Gao!\n");
 
-    printf("Computer Science!\n");
+    printf("Major is Computer Science!\n");
 
+    printf("Minor is Business!\n");
     return 0;
     }
