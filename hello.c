@@ -14,5 +14,9 @@
     printf("Major is Computer Science!\n");
 
     printf("Minor is Business!\n");
+
+    printf("Henry Renteria\n");
+    printf("My major is Computer Science!\n");
+    
     return 0;
     }
